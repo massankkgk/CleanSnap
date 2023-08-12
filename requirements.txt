@@ -1,4 +1,4 @@
 streamlit
 keras
-PIL (Python Imaging Library)
+PIL
 numpy
